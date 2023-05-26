@@ -1,0 +1,11 @@
+#DEMO Project README
+
+This is simple README file 
+
+##Adding
+
+<<<<<<< HEAD
+I hope this isnt much of problem
+=======
+This is bound to cause a trouble
+>>>>>>> very-bad
